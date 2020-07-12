@@ -10,9 +10,12 @@ Welcome to my GitHub profile, my name is Bruno Santana, I am 23 years old and I 
 -->
 ### A litle more about me:
 
-- 💻 I’m currently learning web development
-- 🏘️ I'm from Recife - PE
+- 💻 I'm currently learning web development
+> Atualmente estou aprendendo desenvolvimento web
+- 🏘️ I'm from Recife - PE, Brazil
+> Sou de Recife - PE, Brasil
 - 🌱 i'm graduated in agronomy
+> Sou formado em agronomia
 ---
 📫 How to reach me:
 
