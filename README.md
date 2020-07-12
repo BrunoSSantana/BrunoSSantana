@@ -1,5 +1,5 @@
 # Who is BrunoSSantana?
----
+
 Well, my name is Bruno Santana, I'm 23 years old and a web development student. An enthusiast of technology and how it can change people's lives for the better.
 
 
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+---
 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/brunosantanas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santanas/)](https://www.linkedin.com/in/bruno-satanas/)
