@@ -1,9 +1,6 @@
 # Who is BrunoSSantana?
-> Quem é o BrunoSSantana
 
 Welcome to my GitHub profile, my name is Bruno Santana, I am 23 years old and I am a web development student. A technology enthusiast and how it can change people's lives for the better. that's why I am so passionate about this area in which I decided to dedicate myself.
-> Bem vindo ao meu perfil no GitHub, meu nome é Bruno Santana, tenho 23 anos e sou estudante de desenvolvimento web. Um entusiasta da tecnologia e como ela pode mudar a vida das pessoas para melhor. por isso me facina tanto essa área na qual decidi me dedicar.
-
 
 <!--
 **BrunoSSantana/BrunoSSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,11 +8,11 @@ Welcome to my GitHub profile, my name is Bruno Santana, I am 23 years old and I 
 ### A litle more about me:
 
 - 💻 I'm currently learning web development
-> Atualmente estou aprendendo desenvolvimento web
+
 - 🏘️ I'm from Recife - PE, Brazil
-> Sou de Recife - PE, Brasil
+
 - 🌱 i'm graduated in agronomy
-> Sou formado em agronomia
+
 ---
 📫 How to reach me:
 
