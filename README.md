@@ -1,6 +1,6 @@
 # Who is BrunoSSantana?
 
-Welcome to my GitHub profile, my name is Bruno Santana, I am 23 years old and I am a web development student. A technology enthusiast and how it can change people's lives for the better. that's why I am so passionate about this area in which I decided to dedicate myself.
+Welcome to my GitHub profile, my name is Bruno Santana. I'm 23 years old and currently studying web development. I'm an technology enthusiast and how it can change people's lives for the better. that's why I am so passionate about this area in which I decided to dedicate myself.
 
 <!--
 **BrunoSSantana/BrunoSSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +12,10 @@ Welcome to my GitHub profile, my name is Bruno Santana, I am 23 years old and I 
 - 🏘️ I'm from Recife - PE, Brazil
 
 - 🌱 i'm graduated in agronomy
+
+- 🚀 My current projects:
+
+  - Foodfy (by Rocketseat)
 
 ---
 📫 How to reach me:
