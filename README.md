@@ -15,10 +15,12 @@ Welcome to my GitHub profile, my name is Bruno Santana. I'm 23 years old and cur
 
 - 🚀 My current projects:
 
+  - [Next Level week 1](https://github.com/BrunoSSantana/Next-level-week)
   - [Foodfy](https://github.com/BrunoSSantana/Foodfy)
   - [Launchbase Challenge 1-2](https://github.com/BrunoSSantana/Desafios_LaunchBase)
   - [LaunchBase Challenge 3](https://github.com/BrunoSSantana/Launchbase-Rocketseat-Desafio-3-Iniciando-no-Beck-end)
-  - [Next Level week 1](https://github.com/BrunoSSantana/Next-level-week)
+  - [LaunchBase Challenge 4](https://github.com/BrunoSSantana/Launchbase-Rocketseat-Desafio-4-Controle-de-Academia)
+  
 
 ---
 📫 How to reach me:
