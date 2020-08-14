@@ -11,8 +11,6 @@ Welcome to my GitHub profile, my name is Bruno Santana. I'm 23 years old and cur
 
 - 🏘️ I'm from Recife - PE, Brazil
 
-- 🌱 i'm graduated in agronomy
-
 - 🚀 My current projects:
 
   - [Foodfy](https://github.com/BrunoSSantana/Foodfy)
