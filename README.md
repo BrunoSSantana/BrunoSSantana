@@ -26,8 +26,8 @@
 ---
 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/brunosantanas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santanas/)](https://www.linkedin.com/in/bruno-santanas/)
-[![Gmail Badge](https://img.shields.io/badge/-brunoosouzas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoosouzas@gmail.com)](mailto:brunoosouzas@gmail.com)
+[![](https://img.shields.io/badge/brunosantanas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santanas/)](https://www.linkedin.com/in/bruno-santanas/)
+[![](https://img.shields.io/badge/-brunoosouzas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoosouzas@gmail.com)](mailto:brunoosouzas@gmail.com)
 
 <!-- links -->
 
