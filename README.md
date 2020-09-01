@@ -17,6 +17,7 @@
 - 🚀 My current projects:
 
   - [Foodfy](https://github.com/BrunoSSantana/Foodfy)
+  - [30DiasDeCSS](https://github.com/BrunoSSantana/30diasDeCSS)
   - [Next Level week 1](https://github.com/BrunoSSantana/Next-level-week)
   - [Launchbase Challenge 1-2](https://github.com/BrunoSSantana/Desafios_LaunchBase)
   - [LaunchBase Challenge 3](https://github.com/BrunoSSantana/Launchbase-Rocketseat-Desafio-3-Iniciando-no-Beck-end)
