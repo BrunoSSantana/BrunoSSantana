@@ -27,7 +27,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=buefy)](https://github.com/brunossantana/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=ayu-mirage)](https://github.com/brunossantana/github-readme-stats)
 
 📫 How to reach me:
 
