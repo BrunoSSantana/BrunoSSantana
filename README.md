@@ -1,8 +1,9 @@
 # Who is BrunoSSantana?
 
 <p style="width:400px">Welcome to my GitHub profile, my name is Bruno Santana. I am 23 years old and currently studying web development, and focused on the front-end area. I am an enthusiast of technology and how it can change people's lives for the better and that is why I am so passionate about this area that I decided to dedicate myself to. At the moment I am looking for a company that, like me, loves what it does and always wants to deliver the best to people and is always in an unrelenting search for its personal and collective development.
+  
 
-<img height="350px" align="right" src="https://image.freepik.com/vetores-gratis/ilustracao-de-conceito-de-atividade-de-desenvolvedor_114360-2801.jpg"></img>
+
 </p>
 
 <!--
