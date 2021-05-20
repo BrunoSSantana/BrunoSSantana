@@ -31,9 +31,8 @@
 
 📫 How to reach me:
 
-[![](https://img.shields.io/badge/brunosantanas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santanas/)](https://www.linkedin.com/in/bruno-santanas/)
-[![](https://img.shields.io/badge/-brunoosouzas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoosouzas@gmail.com)](mailto:brunoosouzas@gmail.com)
-
+[![Twitter Badge](https://img.shields.io/badge/-@brunoossantana-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunoossantana)](https://twitter.com/brunoossantana) [![Linkedin Badge](https://img.shields.io/badge/-Bruno_Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santanas/)](https://www.linkedin.com/in/bruno-santanas/) 
+[![Gmail Badge](https://img.shields.io/badge/-brunoosouza15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoosouza15@gmail.com)](mailto:brunoosouza15.com)
 <!-- links -->
 
 
