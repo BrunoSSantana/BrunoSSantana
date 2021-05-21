@@ -1,4 +1,4 @@
-# Who is BrunoSSantana?
+# Who is Bruno Santana?
 
 <p style="width:400px">Welcome to my profile, my name is Bruno Santana. I'm 24 years old and currently studying web development, Specifically on the nodejs trail. I'm an technology enthusiast and how it can change people's lives for the better. That's why I am so passionate about this area in which I decided to dedicate myself. At the moment I am waiting for classes to start at the Federal Rural University of Pernambuco, where I will be a freshman in Information Systems.
   
