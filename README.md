@@ -29,6 +29,16 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=ayu-mirage)](https://github.com/brunossantana/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <a href="https://github.com/brunossantana/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=ayu-mirage" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a> -->
+
+
 📫 How to reach me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@brunoossantana-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunoossantana)](https://twitter.com/brunoossantana) [![Linkedin Badge](https://img.shields.io/badge/-Bruno_Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santanas/)](https://www.linkedin.com/in/bruno-santanas/) 
