@@ -27,11 +27,10 @@ Olá! Eu sou o Bruno Santana. Atualmente estou estudando <strong>Desenvolvimento
 <a href="mailto:brunoosouza15@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 ---
 <!--
-
-[![Twitter Badge](https://img.shields.io/badge/-@brunoossantana-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunoossantana)](https://twitter.com/brunoossantana) 
-
-
- links -->
+Creditos:
+[Readme_template - iuricode](https://github.com/iuricode/readme-template)
+[Readme - willmorim](https://github.com/willmorim/willmorim/blob/master/README.md)
+-->
 
 
 
