@@ -1,5 +1,5 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=ayu-mirage&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=dracula&cache_seconds=2300">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BRUNO/SANTANA&color=6c14cf&style=for-the-badge&logo=GitHub">
 
