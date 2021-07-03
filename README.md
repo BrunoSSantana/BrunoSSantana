@@ -6,7 +6,7 @@
 
 <p>
 
-Olá! Eu sou o Bruno Santana. Atualmente estou estudando <strong>Desenvolvimento Back-end</strong> com a ferramenta <strong>Node.js</strong> .<br/>
+Olá! Eu sou o Bruno Santana. Atualmente estou estudando <strong>Desenvolvimento Back-end</strong> com o runtime <strong>Node.js</strong> .<br/>
 
 <p align="left">
   🦄 Linguagens: <strong>Javasript, Typescript, Python.</strong>
