@@ -1,7 +1,6 @@
+![sh](https://img.shields.io/static/v1?label=Overview&message=BRUNO/SANTANA&color=6c14cf&style=for-the-badge&logo=GitHub)
 
 ![sh](https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=dracula&cache_seconds=2300)
-
-![sh](https://img.shields.io/static/v1?label=Overview&message=BRUNO/SANTANA&color=6c14cf&style=for-the-badge&logo=GitHub)
 
 Hello! I'm Bruno Santana. I am currently studying **Back-end Development** with the runtime **Node.js**.
 
