@@ -6,7 +6,7 @@ Hello! I'm Bruno Santana. I am currently studying **Back-end Development** with 
 
 🦄 Languages: **Javasript, Typescript, Python**.
 
-💼 Tools: **VSCode, Node.js, Express.js, TypeORM, Mongoose, Git and Github**.
+💼 Tools: **VSCode, Node.js, Express.js, TypeORM, Prismajs, Reactjs, Nextjs, Git and Github**.
 
 💌 Feedbacks, propostas, parcerias, ou simplesmente trocar uma ideia: ⤵️
 
