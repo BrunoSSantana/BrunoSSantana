@@ -2,7 +2,7 @@
 
 ![sh](https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=dracula&cache_seconds=2300)
 
-Hello! I'm Bruno Santana. I am currently studying **Back-end Development** with the runtime **Node.js**.
+Hello! I'm Bruno Santana. I'm currently **Web Development** with a focus on **Back-end** ➔ || Node.js || Typescript || PostgreSQL || .
 
 🦄 Languages: **Javasript, Typescript, Python**.
 
