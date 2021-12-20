@@ -10,7 +10,7 @@ Hello! I'm Bruno Santana. I'm currently **Web Development** with a focus on **Ba
 
 💌 Feedbacks, propostas, parcerias, ou simplesmente trocar uma ideia: ⤵️
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://linkedin.com/in/bruno-santanas))
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-santanas)
 [![Gmail](https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:brunoosouza15@gmail.com)
 <!-- [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunoosouzas) -->
 
