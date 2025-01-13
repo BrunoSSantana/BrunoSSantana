@@ -2,11 +2,11 @@
 
 ![sh](https://github-readme-stats.vercel.app/api?username=brunossantana&show_icons=true&theme=dracula&cache_seconds=2300)
 
-Hello! I'm Bruno Santana. I'm currently **Web Development** with a focus on **Back-end** ➔ || Node.js || Typescript || PostgreSQL || .
+Hello! I'm Bruno Santana. I'm currently **Web Development** with a focus on **Back-end** ➔ || Typescript || Node.js || Nestjs || PostgreSQL || .
 
-🦄 Languages: **Javasript, Typescript, Python**.
+🦄 Languages: **Typescript/Javascript, Python, Golang**.
 
-💼 Tools: **VSCode, Node.js, Express.js, TypeORM, Prismajs, Reactjs, Nextjs, Git and Github**.
+💼 Tools: **VSCode, Insomnia, Postman, ApiDog, Dbeaver, Beekeper, Docker, Tmux Git and Github**.
 
 💌 Feedbacks, propostas, parcerias, ou simplesmente trocar uma ideia: ⤵️
 
